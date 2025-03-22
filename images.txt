@@ -3,4 +3,5 @@ mysql:8.0.41
 rabbitmq:3.8-management
 redis:7.4.0
 nacos/nacos-server:v2.4.2
-seataio/seata-server:2.1.0
+seataio/seata-server:1.8.0.2
+seataio/seata-server:2.0.0
